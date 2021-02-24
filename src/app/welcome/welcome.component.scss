@@ -1,0 +1,12 @@
+.container {
+    height: 100vh;
+    background-color: #84cb54;
+    background-position: center;
+    background-image: linear-gradient(
+            rgba(255, 255, 255, 0.9),
+            rgba(255, 255, 255, 0)
+        ),
+        url('../../assets/wallpapers/grassBackground.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
